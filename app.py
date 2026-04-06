@@ -170,7 +170,7 @@ def load_ocr_reader():
     except:
         return None
 
-nlp = load_nlp_model()
+nlp = spacy.load("en_core_web_sm")
 ocr_reader = load_ocr_reader()
 
 class EmailManager:
