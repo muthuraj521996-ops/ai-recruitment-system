@@ -1,0 +1,13 @@
+streamlit
+pdfplumber
+pandas
+dateparser
+rapidfuzz
+spacy
+numpy
+easyocr
+Pillow
+pdf2image
+plotly
+groq
+python-docx
